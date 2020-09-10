@@ -1,0 +1,54 @@
+[produtos] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 2
+                    [tipo] => vga
+                    [nome] => Placa de Vídeo VGA EVGA NVIDIA GeForce GTX 1060 6GB GDDR5 PCI-E 3.0 - 06G-P4-6161-KR
+                    [preco] => 1835.00
+                    [marca] => evga
+                    [semelhante] => 1;3
+                    [imagem] => https://ramos-api.herokuapp.com/includes/imgs/vga/2.jpg
+                )
+            [0] => stdClass Object
+                (
+                    [id] => 2
+                    [tipo] => vga
+                    [nome] => Placa de Vídeo VGA EVGA NVIDIA GeForce GTX 1060 6GB GDDR5 PCI-E 3.0 - 06G-P4-6161-KR
+                    [preco] => 1835.00
+                    [marca] => evga
+                    [semelhante] => 1;3
+                    [imagem] => https://ramos-api.herokuapp.com/includes/imgs/vga/2.jpg
+                )
+            [0] => stdClass Object
+                (
+                    [id] => 2
+                    [tipo] => vga
+                    [nome] => Placa de Vídeo VGA EVGA NVIDIA GeForce GTX 1060 6GB GDDR5 PCI-E 3.0 - 06G-P4-6161-KR
+                    [preco] => 1835.00
+                    [marca] => evga
+                    [semelhante] => 1;3
+                    [imagem] => https://ramos-api.herokuapp.com/includes/imgs/vga/2.jpg
+                )
+            [0] => stdClass Object
+                (
+                    [id] => 2
+                    [tipo] => vga
+                    [nome] => Placa de Vídeo VGA EVGA NVIDIA GeForce GTX 1060 6GB GDDR5 PCI-E 3.0 - 06G-P4-6161-KR
+                    [preco] => 1835.00
+                    [marca] => evga
+                    [semelhante] => 1;3
+                    [imagem] => https://ramos-api.herokuapp.com/includes/imgs/vga/2.jpg
+                )
+            [0] => stdClass Object
+                (
+                    [id] => 2
+                    [tipo] => vga
+                    [nome] => Placa de Vídeo VGA EVGA NVIDIA GeForce GTX 1060 6GB GDDR5 PCI-E 3.0 - 06G-P4-6161-KR
+                    [preco] => 1835.00
+                    [marca] => evga
+                    [semelhante] => 1;3
+                    [imagem] => https://ramos-api.herokuapp.com/includes/imgs/vga/2.jpg
+                )
+
+        )

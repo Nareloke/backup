@@ -1,0 +1,202 @@
+[
+   {
+      "id":"21",
+      "tipo":"BX80684I59600K",
+      "nome":"Processador Intel Core i5-9600K Coffee Lake Refresh, Cache 9MB, 3.7GHz (4.6GHz Max Turbo), LGA 1151",
+      "preco":"1600.0",
+      "marca":"Intel",
+      "semelhante":"22;23",
+      "imagem":"Includes/img/itens/i5_9geracao.jpg",
+      "categoria":"processador"
+   },
+   {
+      "id":"22",
+      "tipo":"BX80684I79700KF",
+      "nome":"Processador Intel Core i7-9700KF Coffee Lake Refresh, Cache 12MB, 3.6GHz (4.9GHz Max Turbo), LGA 1151, Sem Vídeo",
+      "preco":"2400.00",
+      "marca":"Intel",
+      "semelhante":"21;23",
+      "imagem":"Includes/img/itens/i7_9geracao.jpg",
+      "categoria":"processador"
+   },
+   {
+      "id":"23",
+      "tipo":"BX8070110700K",
+      "nome":"Processador Intel Core i7-10700k, Cache 16MB, 3.8GHhz, LGA 1200",
+      "preco":"2824.90",
+      "marca":"Intel",
+      "semelhante":"21;22",
+      "imagem":"Includes/img/itens/i7_10geracao.jpg",
+      "categoria":"processador"
+   },
+   {
+      "id":"24",
+      "tipo":"100-100000022BOX",
+      "nome":"Processador AMD Ryzen 5 3600X Cache 32MB 3.8GHz (4.4GHz Max Turbo) AM4, Sem Vídeo - 100",
+      "preco":"1389.00",
+      "marca":"AMD",
+      "semelhante":"23;25;26",
+      "imagem":"Includes/img/itens/ryzen5_3600.jpg",
+      "categoria":"processador"
+   },
+   {
+      "id":"25",
+      "tipo":"BX80684I99900KF",
+      "nome":"Processador Intel Core i9-9900KF Coffee Lake Refresh, Geração, Cache 16MB, 3.6GHz",
+      "preco":"3399.90",
+      "marca":"Intel",
+      "semelhante":"22;23;24",
+      "imagem":"Includes/img/itens/i9_9geracao.jpg",
+      "categoria":"processador"
+   },
+   {
+      "id":"26",
+      "tipo":"100-100000025BOX",
+      "nome":"Processador AMD Ryzen 7 3800X Cache 32MB 3.9GHz (4.5GHz Max Turbo) AMD4 - 100",
+      "preco":"2499.00",
+      "marca":"AMD",
+      "semelhante":"24;25",
+      "imagem":"Includes/img/itens/ryzen7_3800.jpg",
+      "categoria":"processador"
+   },
+   {
+      "id":"27",
+      "tipo":"Deathadder V2",
+      "nome":"Mouse Gamer Razer Deathadder V2, Chroma, 8 Botões, 20.000 DPI",
+      "preco":"419.90",
+      "marca":"Razer",
+      "semelhante":"28;29",
+      "imagem":"Includes/img/itens/mouse-razer-deathadder-v2.jpg",
+      "categoria":"mouse"
+   },
+   {
+      "id":"28",
+      "tipo":"M715",
+      "nome":"Mouse Gamer Redragon 10000DPI Chroma Dagger M715",
+      "preco":"212.90",
+      "marca":"Redragon",
+      "semelhante":"27;29",
+      "imagem":"Includes/img/itens/mouse-redragon-chroma.jpg",
+      "categoria":"mouse"
+   },
+   {
+      "id":"29",
+      "tipo":"Pulsefire FPS Pro",
+      "nome":"Mouse Gamer HyperX Pulsefire FPS PRO RGB 16000dpi",
+      "preco":"349.90",
+      "marca":"HyperX",
+      "semelhante":"27;28",
+      "imagem":"Includes/img/itens/mouse-hyperx-pro.jpg",
+      "categoria":"mouse"
+   },
+   {
+      "id":"30",
+      "tipo":"Kala - K557",
+      "nome":"Teclado Mecânico Gamer Redragon Kala, RGB, Switch Outemu Red, PT - K55",
+      "preco":"391.90",
+      "marca":"Redragon",
+      "semelhante":"31;32;33",
+      "imagem":"Includes/img/itens/teclado-redragon-kala.jpg",
+      "categoria":"teclado"
+   },
+   {
+      "id":"31",
+      "tipo":"CH-9102010-BR",
+      "nome":"Teclado Mecânico Gamer Corsair K68, RGB, Switch Cherry MX Red, ABNT2",
+      "preco":"1002.90",
+      "marca":"Corsair",
+      "semelhante":"30;32;33",
+      "imagem":"Includes/img/itens/teclado-corsair-k68.jpg",
+      "categoria":"teclado"
+   },
+   {
+      "id":"32",
+      "tipo":"Tournament Chroma V2",
+      "nome":"Teclado Mecânico Gamer Razer Blackwidow Tournament V2 Chroma, Switch Razer Orange",
+      "preco":"494.90",
+      "marca":"Razer",
+      "semelhante":"30;31;33",
+      "imagem":"Includes/img/itens/teclado-razer-blackwidow.jpg",
+      "categoria":"teclado"
+   },
+   {
+      "id":"33",
+      "tipo":"ram",
+      "nome":"Teclado Mecânico Gamer HyperX Alloy Origins, RGB, Switch HyperX Red, ABNT2",
+      "preco":"699.90",
+      "marca":"HyperX",
+      "semelhante":"30;31;32",
+      "imagem":"Includes/img/itens/teclado-hyperx-.jpg",
+      "categoria":"teclado"
+   },
+   {
+      "id":"34",
+      "tipo":"CC-9011168-WW",
+      "nome":"Gabinete Gamer Corsair Crystal Series 680X, RGB, Preto",
+      "preco":"2008.90",
+      "marca":"Corsair",
+      "semelhante":"35;36;37",
+      "imagem":"Includes/img/itens/gabinete-corsair-680x.jpg",
+      "categoria":"gabinete"
+   },
+   {
+      "id":"35",
+      "tipo":"CC-9011188-WW",
+      "nome":"Gabinete Gamer Corsair iCUE 465X, Mid Tower, RGB",
+      "preco":"779.90",
+      "marca":"Corsair",
+      "semelhante":"34;36;37",
+      "imagem":"Includes/img/itens/gabinete-corsair-456x.jpg",
+      "categoria":"gabinete"
+   },
+   {
+      "id":"36",
+      "tipo":"CC-9011138-WW",
+      "nome":"Gabinete Gamer Corsair Carbide SPEC-05 sem Fonte, Mid Tower",
+      "preco":"429.90",
+      "marca":"Corsair",
+      "semelhante":"34;35;37",
+      "imagem":"Includes/img/itens/gabinete-corsair-sepc05.jpg",
+      "categoria":"gabinete"
+   },
+   {
+      "id":"37",
+      "tipo":"ram",
+      "nome":"Gabinete Sharkoon TG5 Blue Vidro Temperado 4mm Led Fan 12cm ATX ",
+      "preco":"439.90",
+      "marca":"Sharkoon",
+      "semelhante":"34;35;36",
+      "imagem":"Includes/img/itens/gabinete-sharkoon-tg5.jpg",
+      "categoria":"gabinete"
+   },
+   {
+      "id":"38",
+      "tipo":"288P6LJEB/57",
+      "nome":"Monitor Philips LED 28´ Widescreen, 4K, HDMI/VGA/DVI/Display Port, Som Integrado",
+      "preco":"2159.91",
+      "marca":"Philips",
+      "semelhante":"39;40",
+      "imagem":"Includes/img/itens/monitor-philips-4k.jpg",
+      "categoria":"monitor"
+   },
+   {
+      "id":"39",
+      "tipo":"LC24FG73FQLXZD",
+      "nome":"Monitor Gamer Samsung LED 23.5´ Widescreen Curvo, Full HD, HDMI/Display Port, 144Hz, 1ms, Altura Ajustável",
+      "preco":"2114.91",
+      "marca":"Samsumg",
+      "semelhante":"38;40",
+      "imagem":"Includes/img/itens/monitor-samsumg-led.jpg",
+      "categoria":"monitor"
+   },
+   {
+      "id":"40",
+      "tipo":"XG49VQ",
+      "nome":"Monitor Gamer Asus 49´ Super Ultrawide Curvo, HDMI/Display Port, FreeSync 2 HDR, 144 Hz",
+      "preco":"9500.00",
+      "marca":"Asus",
+      "semelhante":"38;39",
+      "imagem":"Includes/img/itens/monitor-games-asus-49.jpg",
+      "categoria":"monitor"
+   }
+]

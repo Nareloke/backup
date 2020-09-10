@@ -1,0 +1,31 @@
+body{
+	background-image: url("../imgs/fundo.png");
+}
+
+.menu{
+	margin-top:15px;
+}
+#principal{
+	background-color: #ddd;
+	padding:30px;
+	margin-top:30px;
+	border-radius:15px;
+}
+
+h1{
+	margin-bottom: 25px;
+}
+
+button{
+	margin-top: 25px;
+}
+
+.requerido{
+	color: red;
+	margin-left: 5px;
+	font-weight: bold;
+}
+.msg{
+	padding: 15px;
+	margin-bottom: 10px;
+}

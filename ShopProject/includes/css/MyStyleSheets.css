@@ -1,0 +1,22 @@
+/* Nav Bar */
+
+nav {
+    background-color: #000000;
+    margin-bottom: 25px;
+}
+
+nav img {
+    max-width: 150px;
+}
+
+#types{
+    padding-top:10px;
+    padding-left: 20px;
+    margin-bottom: 300px;
+}
+
+.col-6{
+    padding-top:15px;
+    text-align: center;
+    color: #343a40; 
+}
